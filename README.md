@@ -11,3 +11,16 @@ or:
 ```
 g++ decoder.cpp -o decoder -lz
 ```
+
+---
+Syntax for usage:
+
+Encoder:
+```
+./encoder <yourfilename.ending>
+```
+
+Decoder:
+```
+./decoder <yourfilename.ending.cmpfile>
+```
