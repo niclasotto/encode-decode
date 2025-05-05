@@ -1,4 +1,9 @@
-# encode-decode
+# !DISCLAIMER!
+this hasn't been tested thoroughly on every platform. It works on Ubuntu 25.04 but nothing else is guaranteed to work
+
+---
+
+## encode-decode
 Simple encoder/decoder written by the vscode copilot/github copilot
 
 ---
