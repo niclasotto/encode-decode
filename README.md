@@ -24,3 +24,9 @@ Decoder:
 ```
 ./decoder <yourfilename.ending.cmpfile>
 ```
+
+---
+
+### How to set both as a global variable?
+
+If you want to access the encoder/decoder from anywhere in your system, execute the move_both file
