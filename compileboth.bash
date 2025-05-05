@@ -1,2 +1,2 @@
-g++ encoder.cpp -o Encoder -lz
-g++ decoder.cpp -o Decoder -lz
+g++ encoder.cpp -o encoder -lz
+g++ decoder.cpp -o decoder -lz
